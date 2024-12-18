@@ -1,0 +1,21 @@
+{
+  "name": "Dev'Coffee PWA",
+  "short_name": "DevCoffee",
+  "description": "A Progressive Web App for Dev'Coffee",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#333333",
+  "icons": [
+    {
+      "src": "icons/coffee-icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/coffee-icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
